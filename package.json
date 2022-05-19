@@ -1,0 +1,5 @@
+{
+    "scripts": {
+        "start": "echo \"Starting...\" && node src/index.js"
+    }
+}
